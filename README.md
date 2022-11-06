@@ -7,4 +7,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# device_redmi_evergo
+
